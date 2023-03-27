@@ -9,7 +9,9 @@
 ## 3. 변경사항
 ### 1) main.cpp
 <img width="1920" alt="스크린샷 2023-03-27 오후 11 21 51" src="https://user-images.githubusercontent.com/103934004/227969260-368ae672-f727-4375-9896-3a251263a754.png">
+
 ### 2) power.py
 <img width="1920" alt="스크린샷 2023-03-27 오후 11 23 05" src="https://user-images.githubusercontent.com/103934004/227969379-9127f68b-6694-4ad6-9a79-4a7a2fb5d4ba.png">
+
 ### 3) server.py
 <img width="1920" alt="스크린샷 2023-03-27 오후 11 26 44" src="https://user-images.githubusercontent.com/103934004/227969852-6c0f020a-e133-4055-bd9f-15fbbe86b591.png">
